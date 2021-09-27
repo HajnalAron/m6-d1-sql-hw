@@ -1,3 +1,4 @@
+author_id INTEGER REFERENCES authors(author_id)
 -- INSERT
  
 
